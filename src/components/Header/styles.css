@@ -1,0 +1,13 @@
+header {
+  display: flex;
+  height: 200px;
+  background: linear-gradient(90.23deg, #05ede3 0.02%, #645ffb 99.63%);
+  padding: 0 50px;
+}
+
+header img {
+  width: 169px;
+  height: 45px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}

@@ -1,0 +1,28 @@
+.table {
+  width: 950px;
+}
+
+.table-body {
+  display: flex;
+  flex-direction: column;
+}
+.table-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.line-item {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 150px;
+  height: 55px;
+}
+
+.action-btn {
+  cursor: pointer;
+}
